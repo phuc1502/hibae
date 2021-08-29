@@ -5,12 +5,12 @@ const textConfig = {
   text4: "Nếu diu ko trả lời mà thoát ra tức là muốn làm vợ tôi rùi đó nha :v",
   text5: "mơ à...có cái nịt",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tôi đi :vvvv",
+  text7: "lí do em thích anh đi :vvvv",
   text8: "Gửi anhh <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Anh biết mà^^...Yêu em 300.000",
+  text9: "Vì anh đẹp try vlllll",
+  text10: "Haha anh biết mà.Yêu em 300.000",
   text11:
-    "thôi mấy chuyện không vui bỏ qua đi...tối lại thức nhá =))",
+    "thôi mấy chuyện không vui bỏ qua đi...tối nay nghỉ lại thức nhá =))",
   text12: "Okii yeuanhhh <3",
 };
 
