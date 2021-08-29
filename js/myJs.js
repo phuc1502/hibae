@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
+  text1: "He luu bác!",
+  text2: " có điều này muốn hỏi bác nhớ phải trả lời thật lòng nhaaa.",
+  text3: "Cau yêu toi có phải không nào ._.",
+  text4: "Nếu diu ko trả lời mà thoát ra tức là muốn làm vợ toi rùi đó nha :v",
+  text5: "mơ à...có cc???",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
+  text7: "lí do cậu thích toi đi :vvvv",
+  text8: "Gửi <3",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text10: "T biết mà ^^ Yêu em 300.000",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "thôi mấy chuyện không vui bỏ qua đi...tối lại thức.Yêu mày nhấtttttt",
+  text12: "Okii yeuanhhh <3",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://m.facebook.com/story.php?story_fbid=795648884605168&id=100024801907235";
           },
         });
       }
